@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\bin\Debug\AdminEmpresa.exe.config
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\bin\Debug\AdminEmpresa.exe
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\bin\Debug\AdminEmpresa.pdb
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.Form1.resources
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.PL.frmDepartamentos.resources
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.PL.frmEmpleados.resources
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.Properties.Resources.resources
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.exe
+C:\Users\Administrador\Desktop\proyecto.net\.NET\AdminEmpresa\obj\Debug\AdminEmpresa.pdb
